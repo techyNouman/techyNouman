@@ -1,16 +1,17 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Techy Nouman</h1>
 
-<!--
-**techyNouman/techyNouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 I’m a Mobile App Developer 
+- 🤓 I know Android, Flutter and iOS app development
+- 💻 Currently working as a Tech Lead - Mobile App Development
+- 📫 How to reach me: techynouman@gmail.com
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,kotlin,java,flutter,dart,swift,firebase,github,git,postman,figma,sqlite,githubactions,gcp,&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Techy Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=techyNouman&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techyNouman&theme=dark)
+
+
+<br>
+⭐️ From [techyNouman](https://github.com/techyNouman)
